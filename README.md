@@ -29,7 +29,7 @@ I'm a graduate of Computer Science from VIT, Vellore. I am a technical trainer b
 
 <div align = "center">
 
-![Tejas' Github Status](https://github-readme-stats.vercel.app/api?username=heftyb&show_icons=true&count_private=true&hide=stars&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Tejas' Github Status](https://github-readme-stats.vercel.app/api?username=revtejas&show_icons=true&count_private=true&hide=stars&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 </div>
 
