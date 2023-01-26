@@ -24,6 +24,12 @@ I'm a graduate of Computer Science from VIT, Vellore. I am a technical trainer b
   <a href="https://twitter.com/tejas_afc">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
+  
+   <a href="https://www.youtube.com/@pocoverse">
+    <img src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fyoutube-channel-badge.ngoldack.vercel.app%2Fapi%2Fsubscriber">
+  </a>
+  
+ 
 </p>
 </h1>
 
