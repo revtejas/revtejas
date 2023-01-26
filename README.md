@@ -25,7 +25,7 @@ I'm a graduate of Computer Science from VIT, Vellore. I am a technical trainer b
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
   
-   <a href="https://www.youtube.com/@pocoverse">
+   <a href="https://www.youtube.com/watch?v=xGtKscNHPW8&t=25s">
     <img src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fyoutube-channel-badge.ngoldack.vercel.app%2Fapi%2Fsubscriber">
   </a>
   
